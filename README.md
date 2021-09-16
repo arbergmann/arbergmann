@@ -12,6 +12,10 @@ I'm Allie, a data scientist working in the financial industry with experience at
 - 📫 How to reach me: 11arbergmann@gmail.com
 - 😄 Pronouns: she/her/hers
 
+## 💼 Skills
+- Python
+- SQL
+
 [![Updated Badge](https://badges.pufler.dev/updated/arbergmann/arbergmann)](https://github.com/arbergmann)
 
 <!--
