@@ -1,6 +1,5 @@
 [![Repos Badge](https://badges.pufler.dev/repos/arbergmann)](https://github.com/arbergmann)
 [![Years Badge](https://badges.pufler.dev/years/arbergmann)](https://github.com/arbergmann)
-[![Updated Badge](https://badges.pufler.dev/updated/arbergmann/arbergmann)](https://github.com/arbergmann)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/arbergmann)](https://github.com/arbergmann)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/arbergmann/)
 
@@ -12,6 +11,8 @@ I'm Allie, a data scientist working in the financial industry with experience at
 - 🌱 I’m currently in my final semester of the University of Michigan's Applied Data Science program, beginning work on my Capstone project.
 - 📫 How to reach me: 11arbergmann@gmail.com
 - 😄 Pronouns: she/her/hers
+
+[![Updated Badge](https://badges.pufler.dev/updated/arbergmann/arbergmann)](https://github.com/arbergmann)
 
 <!--
 **arbergmann/arbergmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
