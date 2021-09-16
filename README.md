@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 
+
+I'm Allie, a data scientist working in the financial industry with experience at fintech startups.
+
+- 🔭 I’m currently working on automated Python trading applications with an emphasis on US equities and cryptocurrencies.
+- 🌱 I’m currently in my final semester of the University of Michigan's Applied Data Science program, beginning work on my Capstone project.
+- 📫 How to reach me: 11arbergmann@gmail.com
+- 😄 Pronouns: she/her/hers
 
 <!--
 **arbergmann/arbergmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
