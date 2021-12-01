@@ -1,5 +1,6 @@
 [![Repos Badge](https://badges.pufler.dev/repos/arbergmann)](https://github.com/arbergmann)
 [![Years Badge](https://badges.pufler.dev/years/arbergmann)](https://github.com/arbergmann)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/arbergmann)](https://badges.pufler.dev)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/arbergmann/)
 
 ### Hi there 👋 
@@ -7,7 +8,7 @@
 I'm Allie, a data scientist working in the financial industry with experience at fintech startups.
 
 - 🔭 I’m currently working on automated Python trading applications with an emphasis on US equities and cryptocurrencies.
-- 🌱 I’m currently in my final semester of the University of Michigan's Applied Data Science program, beginning work on my Capstone project.
+- 🌱 I’m currently in my final semester of the University of Michigan's Applied Data Science program, completing my work on a Capstone project focused on equity price predictions leveraging linear and non-linear machine learning models and neural networks.
 - 📫 How to reach me: 11arbergmann@gmail.com
 - 😄 Pronouns: she/her/hers
 
