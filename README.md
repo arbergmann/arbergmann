@@ -7,7 +7,7 @@
 I'm Allie, a data scientist working in the financial industry with experience at fintech startups.
 
 - 🔭 I’m currently working on automated Python trading applications with an emphasis on US equities and cryptocurrencies.
-- 🌱 I’m currently in my final semester of the University of Michigan's Applied Data Science program, completing my work on a Capstone project focused on equity price predictions leveraging linear and non-linear machine learning models and neural networks.
+- 🌱 I just completed my final semester of the University of Michigan's Applied Data Science program, completing my work on a Capstone project focused on equity price predictions leveraging linear and non-linear machine learning models and neural networks.
 - 📫 How to reach me: 11arbergmann@gmail.com
 - 😄 Pronouns: she/her/hers
 
