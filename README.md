@@ -1,4 +1,4 @@
-[![Repos Badge](https://badges.pufler.dev/repos/arbergmann)](https://github.com/arbergmann)
+[![Repos Badge](https://badges.pufler.dev/repos/arbergmann)](https://github.com/arbergmann?tab=repositories)
 [![Years Badge](https://badges.pufler.dev/years/arbergmann)](https://github.com/arbergmann)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/arbergmann/)
 
