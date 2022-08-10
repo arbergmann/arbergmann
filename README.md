@@ -7,7 +7,7 @@
 I'm Allie. I am a self-motivated and results-oriented recent data science graduate with 5 years of data analytics experience in the business development and business intelligence space. I have experience with large data sets and developing data-driven insights for early-stage fintech and Fortune 500 companies.
 
 - 🔭 I’m currently working on automated Python trading applications with an emphasis on US equities and cryptocurrencies.
-- 🌱 Graduate of the University of Michigan's Applied Data Science program, completing my work on a Capstone project focused on equity price predictions leveraging linear and non-linear machine learning models and neural networks. Additionally, I have an MBA from the University of Missouri.
+- 🌱 Graduate of the University of Michigan's Applied Data Science program, completing my work on a Capstone project focused on equity price predictions leveraging linear and non-linear machine learning models and neural networks. Additionally, I have an MBA from the University of Missouri with a concentration in Finance.
 - 📫 How to reach me: 11arbergmann@gmail.com
 - ⚡ Fun fact: If I'm not here, you can probably find me somewhere in VR.
 - 😄 Pronouns: she/her/hers
