@@ -4,7 +4,7 @@
 
 ### Hi there 👋 
 
-I'm Allie. I am a self-motivated and results-oriented data scientist with 6+ years of data science and data analytics experience in the AI, algorithmic trading, and business intelligence space. I have experience with large data sets (1PB+) and developing data-driven insights for early-stage fintech and Fortune 500 companies.
+I'm Allie. I am a self-motivated and results-oriented data scientist with 7+ years of data science and data analytics experience in the AI, algorithmic trading, and business intelligence space. I have experience with large data sets (1PB+) and developing data-driven insights for early-stage fintech and Fortune 500 companies.
 
 - 🔭 I’m currently working on AI/CV applications in the retail space, and automated Python trading applications with an emphasis on US equities and cryptocurrencies.
 - 🌱 Currently studying reinforcement learning applications for alpha hunting in the statistical arbitrage space.
